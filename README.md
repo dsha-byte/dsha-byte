@@ -1,4 +1,4 @@
-# Hey there, I'm Dhilaksha! 👋
+# Hey there, I'm Dhilakshana! 👋
 
 🎓 **First-Year ECE Student** | 💻 **Aspiring Developer** | 🚀 **Aerospace Enthusiast**
 
