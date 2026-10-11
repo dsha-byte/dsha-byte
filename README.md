@@ -1,4 +1,4 @@
- Hey there, I'm Dsha! 👋
+# Hey there, I'm Dhilaksha! 👋
 
 🎓 **First-Year ECE Student** | 💻 **Aspiring Developer** | 🚀 **Aerospace Enthusiast**
 
@@ -71,14 +71,3 @@
 
 *"Stay curious, keep learning, and let every small step build something meaningful."*
 
-
-
-🎯 My Goals
-
-Improve my programming skills
-
-Build beginner-friendly projects
-
-Explore new possibilities in engineering
-
-✨ Curiosity leads to discovery. Learning leads to growth.
